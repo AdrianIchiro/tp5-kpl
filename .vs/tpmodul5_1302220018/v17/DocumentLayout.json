@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Program\\c#\\tpmodul5_1302220018\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07513968-F37C-4935-A3BA-F67244EC6547}|tpmodul5_1302220018\\tpmodul5_1302220018.csproj|d:\\program\\c#\\tpmodul5_1302220018\\tpmodul5_1302220018\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07513968-F37C-4935-A3BA-F67244EC6547}|tpmodul5_1302220018\\tpmodul5_1302220018.csproj|solutionrelative:tpmodul5_1302220018\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Program\\c#\\tpmodul5_1302220018\\tpmodul5_1302220018\\Program.cs",
+              "RelativeDocumentMoniker": "tpmodul5_1302220018\\Program.cs",
+              "ToolTip": "D:\\Program\\c#\\tpmodul5_1302220018\\tpmodul5_1302220018\\Program.cs",
+              "RelativeToolTip": "tpmodul5_1302220018\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T18:11:02.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
